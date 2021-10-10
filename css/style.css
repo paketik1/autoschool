@@ -2152,6 +2152,8 @@ body.ie ._ibg img {
   width: calc(33.333% - 14px);
   cursor: pointer;
   overflow: hidden;
+height: 100%;
+position: relative;
   -webkit-transform: scale(0.9);
       -ms-transform: scale(0.9);
           transform: scale(0.9);
